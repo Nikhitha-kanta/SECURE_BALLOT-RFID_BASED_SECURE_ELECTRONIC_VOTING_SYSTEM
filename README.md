@@ -312,10 +312,10 @@ Mark Voter as Already Voted
 
 ## 👨‍💻 Author
 
-**Sai Prasanna Kuppi Reddy**
+**Kanta Nikhitha**
 
 * Embedded Systems | ARM7 | Embedded C | Microcontroller Interfacing
-* GitHub: [@sai-prasanna5](https://github.com/sai-prasanna5)
+* GitHub: [@Nikhitha-kanta](https://github.com/Nikhitha-kanta)
 
 ---
 
