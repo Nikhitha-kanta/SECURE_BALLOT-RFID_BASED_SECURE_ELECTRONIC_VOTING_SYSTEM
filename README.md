@@ -199,7 +199,7 @@ SecureBallot-System/
 ---
 
 ## 🧭 System Workflow
-![SecureBallot Complete System Workflow](secureballot_workflow.png)
+<img width="1400" height="800" alt="..." src="https://github.com/user-attachments/assets/..." />
 
 ### 👮 Officer Workflow
 
