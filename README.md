@@ -199,7 +199,8 @@ SecureBallot-System/
 ---
 
 ## 🧭 System Workflow
-<img width="1400" height="800" alt="..." src="https://github.com/user-attachments/assets/..." />
+<img width="1400" height="800" alt="SecureBallot Complete System Workflow" src="https://github.com/Nikhitha-kanta/SECURE_BALLOT-RFID_BASED_SECURE_ELECTRONIC_VOTING_SYSTEM/blob/main/secureballot_workflow.png?raw=true" />
+
 
 ### 👮 Officer Workflow
 
